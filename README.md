@@ -13,7 +13,7 @@
 * 📜 **Training:** **빅데이터 핀테크 과정 4기** 수료
   * Course Info: [SNU 빅데이터 핀테크 과정](https://www.snukdt.com/abs/)
 * 💡 **Interests / Learning:** **Data Analyst** **MLOps**
-* 📝 **Contact:**  Email: `soato0812@gmail.com` `monkey0812@naver.com`
+* 📝 **Contact:**  
 
 
 <div align="center">
@@ -21,12 +21,8 @@
   <a href="mailto:soato0812@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
-  
-  <!-- 이메일 버튼 (클릭 시 바로 메일 작성 창이 뜹니다) -->
-  <a href="mailto:monkey0812@naver.com">
-    <img src="https://img.shields.io/badge/Naver-EA4335?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver"/>
-  </a>
-  
+
+
   <!-- 링크드인 버튼 -->
   <a href="https://www.linkedin.com/in/%EC%97%B0%EC%84%B1-%EA%B9%80-171aa7212/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
