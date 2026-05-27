@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1> 👋 Hola! I'm Yeonsung Kim </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0073EC&center=true&vCenter=true&width=500&lines=📊+Data+Scientist+|+Data+Engineer;🌱+End-to-End+서비스를+연구합니다;🚀+수학적+직관과+데이터를+융합합니다" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0073EC&center=true&vCenter=true&width=500&lines=📊+Data+Scientist+|+Data+Engineer;🌱" alt="Typing SVG" />
 </div>
 
 <br/>
