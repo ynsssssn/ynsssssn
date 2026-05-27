@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1> 👋 Hola! I'm Yeonsung Kim </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0073EC&center=true&vCenter=true&width=500&lines=📊+Data+Scientist+|+Data+Engineer;🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0073EC&center=true&vCenter=true&width=500&lines=📊+Data+Scientist+|+ML+Engineer;🌱" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -12,7 +12,7 @@
 * 🎓 **Education:** **한양대학교 수학과**
 * 📜 **Training:** **빅데이터 핀테크 과정 4기** 수료
   * Course Info: [SNU 빅데이터 핀테크 과정](https://www.snukdt.com/abs/)
-* 💡 **Interests / Learning:** **Data Analyst** **MLOps**
+* 💡 **Interests / Learning:** **Data Analyst** / **MLOps**
 * 📝 **Contact:**  <div align="center">
   <!-- 이메일 버튼 (클릭 시 바로 메일 작성 창이 뜹니다) -->
   <a href="mailto:soato0812@gmail.com">
