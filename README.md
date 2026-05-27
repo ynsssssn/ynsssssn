@@ -24,7 +24,7 @@
   
   <!-- 이메일 버튼 (클릭 시 바로 메일 작성 창이 뜹니다) -->
   <a href="mailto:monkey0812@naver.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Naver&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver"/>
   </a>
   
   <!-- 링크드인 버튼 -->
