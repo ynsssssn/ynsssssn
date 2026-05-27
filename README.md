@@ -8,7 +8,7 @@
 <br/>
 
 ## 👩‍💻 About Me
-* 💻 **jobs:** **[의식주컴퍼니(런드리고)](https://www.laundrygo.com/) Data Analyst**
+* 💻 **Jobs:** **[의식주컴퍼니(런드리고)](https://www.laundrygo.com/) Data Analyst**
 * 🎓 **Education:** **한양대학교 수학과**
 * 📜 **Training:** **빅데이터 핀테크 과정 4기** 수료
   * Course Info: [SNU 빅데이터 핀테크 과정](https://www.snukdt.com/abs/)
