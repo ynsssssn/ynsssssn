@@ -2,7 +2,6 @@
 
 <div align="center">
   <h1> 👋 Hola! I'm Yeonsung Kim </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0073EC&center=true&vCenter=true&width=500&lines=📊+Data+Scientist;" alt="Typing SVG" />
 </div>
 
 <br/>
