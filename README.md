@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 
 
-  <h3>☁️ Data Engineering & Cloud</h3>
+  <h3>☁️ Data Tools </h3>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white">
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=AWSLambda&logoColor=white">
   <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white">
