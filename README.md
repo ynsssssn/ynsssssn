@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1> 👋 Hola! I'm Yeonsung Kim </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0073EC&center=true&vCenter=true&width=500&lines=📊+Data+Scientist+|+ML+Engineer;🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0073EC&center=true&vCenter=true&width=500&lines=📊+Data+Scientist;" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Prophet-0073EC?style=flat-square&logo=Meta&logoColor=white">
+
 
   <h3>☁️ Data Engineering & Cloud</h3>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white">
