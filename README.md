@@ -12,7 +12,7 @@
 * 🎓 **Education:** **한양대학교 수학과**
 * 📜 **Training:** **빅데이터 핀테크 과정 4기** 수료
   * Course Info: [SNU 빅데이터 핀테크 과정](https://www.snukdt.com/abs/)
-* 💡 **Interests / Learning:** **Data Analyst** / **MLOps**
+* 💡 **Interests / Learning:** **Data Scientist** / **MLOps**
 * 📝 **Contact:**  <div align="center">
   <!-- 이메일 버튼 (클릭 시 바로 메일 작성 창이 뜹니다) -->
   <a href="mailto:soato0812@gmail.com">
