@@ -12,7 +12,7 @@
 * 📜 **Training:** **빅데이터 핀테크 과정 4기** 수료
   * Course Info: [SNU 빅데이터 핀테크 과정](https://www.snukdt.com/abs/)
 * 💡 **Interests / Learning:** **Data Scientist** / **MLOps**
-* 📝 **Contact:**  <div align="center">
+* 📝 **Contact:**  <div align="center"> 
   <!-- 이메일 버튼 (클릭 시 바로 메일 작성 창이 뜹니다) -->
   <a href="mailto:soato0812@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
